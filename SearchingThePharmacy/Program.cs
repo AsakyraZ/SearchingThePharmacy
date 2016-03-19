@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 // Тест
-
+// Тест Конфликта GIT
 namespace SearchingThePharmacy
 {
     public class Program
